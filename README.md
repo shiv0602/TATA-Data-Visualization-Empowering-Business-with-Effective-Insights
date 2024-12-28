@@ -3,7 +3,7 @@ The virtual experience programme is provided by Tata iQ or Tata Insights and Qua
 
 The programme demonstrates the kind of issues dealt with by Tata Insights and Quants every day and makes an effort to imitate the difficulties an individual could have.
 
-There are 4 modules in this virtual Internship programe for online retail data analysis. 
+There are 4 modules in this virtual Internship program for online retail data analysis. 
 
 ♦ Framing the Business Scenario
 
